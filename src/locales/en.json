@@ -462,7 +462,9 @@
     "home": "Home",
     "noGuidesAvailable": "No guides available yet. Check back soon!",
     "playOnSteam": "Play on Steam",
-    "quickLinks": "Quick Links"
+    "quickLinks": "Quick Links",
+    "activeCodes": "Active Codes",
+    "viewAllCodes": "View all codes"
   },
   "footer": {
     "aboutTitle": "Tenebris Somnia Wiki",
