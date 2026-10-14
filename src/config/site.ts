@@ -33,6 +33,6 @@ export const siteConfig: SiteConfig = {
     steamCommunity: "https://steamcommunity.com/app/2121510",
     youtube: "https://www.youtube.com/@NewBloodInteractive",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
