@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Vollständige Guides, Codes, Rezepte & Tier-Listen",
-    "description": "Dein ultimativer Guide für My Seafood Stand auf Roblox! Entdecke aktive Codes, Meeresfrüchte-Rezepte, die besten Upgrades, Gewinnstrategien und Fortschritts-Guides.",
-    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler gemacht."
+    "name": "Tenebris Somnia Wiki",
+    "shortName": "Tenebris Somnia",
+    "tagline": "Walkthroughs, Enden, Geheimnisse & Survival-Horror-Guides",
+    "description": "Entdecke das Tenebris Somnia Wiki mit Walkthroughs, Enden, Geheimnissen, Gameplay-Guides und Survival-Horror-Tipps, die Spielern beim Durchspielen helfen.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Von Spielern für Spieler."
   },
   "nav": {
     "races": "Rassen",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Rezepte, Upgrades & Guides",
-      "description": "Vollständiger My Seafood Stand Guide auf Roblox mit aktiven funktionierenden Codes, allen Fischen & Rezepten, Tier-Liste der besten Upgrades und Tipps für schnelles Geld."
+      "title": "Tenebris Somnia Wiki - Walkthrough, Enden & Geheimnisse",
+      "description": "Entdecke das Tenebris Somnia Wiki mit Walkthroughs, Enden, Geheimnissen, Gameplay-Guides und Survival-Horror-Tipps für ein erfolgreiches Durchspielen."
     },
     "hero": {
-      "eyebrow": "Von Fans erstelltes Community-Wiki",
-      "title": "My Seafood Stand",
-      "description": "Meistere dein Restaurant in My Seafood Stand auf Roblox. Erhalte Zugriff auf alle aktiven Codes, den kompletten Fisch- & Rezeptkatalog, optimale Upgrades und Profi-Strategien zum Geldverdienen.",
+      "eyebrow": "Retro-Survival-Horror-Abenteuer",
+      "title": "Tenebris Somnia Wiki",
+      "description": "Tenebris Somnia ist ein retro-inspiriertes Survival-Horror-Abenteuer, das Pixel-Art-Optik, Erkundung, Rätsel und Elemente des psychologischen Horrors verbindet.",
       "stats": [
-        "Alle Codes",
-        "Alle Fische & Rezepte",
-        "Upgrade-Guides",
-        "Tipps für schnelles Geld"
+        "10K+ Besuche",
+        "Mehrere Geheimnisse",
+        "0 aktive Codes",
+        "Regelmäßige Updates"
       ],
-      "primaryCta": "Anfänger-Guide",
-      "secondaryCta": "Meeresfrüchte Tier-Liste",
+      "primaryCta": "Einsteiger-Guide",
+      "secondaryCta": "Rätsellösungen",
       "tertiaryCta": "Aktive Codes",
-      "videoLabel": "Offizielle Medien"
+      "videoLabel": "Offizieller Trailer"
     },
     "updates": {
       "title": "Neueste Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Bereit, My Seafood Stand zu meistern?",
-      "description": "Von deinen ersten Schritten in Fort Adams bis zu den Endgame-Bosskämpfen – unser Community-Wiki begleitet dich mit kostenlosen, aktuellen Guides.",
-      "primary": "Anfänger-Guide lesen",
-      "secondary": "Auf Roblox spielen"
+      "title": "Bereit, Tenebris Somnia zu meistern?",
+      "description": "Von deinem ersten dunklen Korridor bis zu den verborgenen Enden des Spiels – unser Community-Wiki bietet dir kostenlose, aktuelle Guides.",
+      "primary": "Einsteiger-Guide lesen",
+      "secondary": "Auf Steam spielen"
     }
   },
   "bosses": {
@@ -366,7 +366,6 @@
     "activeCodes": "Aktive Codes",
     "updated": "Aktualisiert",
     "viewAllCodes": "Alle Codes anzeigen",
-    "playOnRoblox": "Auf Roblox spielen",
     "inThisSection": "In diesem Abschnitt",
     "tableOfContents": "Inhaltsverzeichnis",
     "nextSteps": "Nächste Schritte",
@@ -376,24 +375,24 @@
     "readMore": "Mehr lesen",
     "officialMedia": "Offizielle Medien",
     "home": "Startseite",
-    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!"
+    "noGuidesAvailable": "Noch keine Guides verfügbar. Schau bald wieder vorbei!",
+    "playOnSteam": "Auf Steam spielen"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub, der Fortschrittsrouten, Rassen, Bosse, Builds und essenzielles Spielwissen für neue und erfahrene Spieler gleichermaßen abdeckt.",
-    "quickLinks": "Schnelllinks",
+    "aboutTitle": "Tenebris Somnia Wiki",
+    "about": "Das Tenebris Somnia Wiki ist ein unabhängiger, von Fans erstellter Guide-Hub mit Walkthroughs, Enden, Geheimnissen, Rätseln, Monstern und Survival-Horror-Tipps für neue und erfahrene Spieler.",
+    "quickLinks": "Schnellzugriff",
     "guides": "Guides",
     "legal": "Rechtliches",
-    "copyright": "2026 My Seafood Stand Wiki. Nicht verbunden mit Midnight Continent oder Roblox.",
-    "description": "Kostenloses, von Bleach inspiriertes Kampf-RPG auf Roblox. 3 Rassen, 130+ Fähigkeiten, Lv100-Cap.",
-    "playGame": "My Seafood Stand spielen",
-    "officialDiscord": "Offizieller Discord",
+    "copyright": "2026 Tenebris Somnia Wiki. Nicht verbunden mit Andrés Borghi, Saibot Studios oder New Blood Interactive.",
+    "description": "Retro-Pixel-Survival-Horror. Erkunde ein dunkles Anwesen, löse Rätsel und überlebe psychologischen Horror im Stil klassischer PS1-Spiele.",
+    "playGame": "Tenebris Somnia auf Steam spielen",
+    "steamCommunity": "Steam-Community",
     "officialYoutube": "Offizieller YouTube-Kanal",
-    "vvBuilder": "VV Builder (Skill-Planer)",
-    "beginnerGuide": "Anfänger-Guide",
-    "raceGuides": "Rassen-Guides",
+    "beginnerGuide": "Einsteiger-Guide",
     "bossGuides": "Boss-Guides",
-    "buildGuide": "Build-Guide",
+    "mapGuides": "Karten & Orte",
+    "skillGuides": "Fähigkeiten",
     "privacyPolicy": "Datenschutzerklärung",
     "termsOfService": "Nutzungsbedingungen"
   }
