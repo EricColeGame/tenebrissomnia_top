@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Tenebris Somnia Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "New to Tenebris Somnia? Learn how the point-and-click survival horror loop works, why the game never highlights hotspots, and the exploration habits that keep your first run moving."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Puzzle Solutions",
+          "description": "Tenebris Somnia gates progress behind puzzles, not combat. Master the red door riddle, the floor symbol panel, and the item-combination logic behind every early blocker."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Monsters & Combat",
+          "description": "Every creature chasing Julia through the parallel universe is a cost-benefit decision. Learn when to fight, when to run, and how to survive nightmare encounters on limited resources."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Characters & Cast",
+          "description": "Meet Julia, her missing ex-boyfriend Ivan, and the performers behind the live-action cutscenes that define the Tenebris Somnia story."
         }
       ]
     },
@@ -66,265 +66,343 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Puzzle Solutions",
+        "Story & Endings",
+        "Release Date"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first dark corridor to mastering the point-and-click survival horror loop.",
+          "href": "/guide/tenebris-somnia-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Demo Walkthrough",
+          "description": "A full walkthrough of the free demo, from the opening house to the red door and beyond.",
+          "href": "/guide/tenebris-somnia-demo-walkthrough"
+        },
+        {
+          "badge": "Popular",
+          "title": "Puzzle Solutions",
+          "description": "The red door riddle and the floor symbol panel, explained step by step.",
+          "href": "/guide/tenebris-somnia-floor-puzzle"
+        },
+        {
+          "badge": "Popular",
+          "title": "Story & Endings",
+          "description": "Julia's nightmare, the parallel universe, and what the live-action cutscenes reveal.",
+          "href": "/story/tenebris-somnia-story"
+        },
+        {
+          "badge": "New",
+          "title": "Monsters Guide",
+          "description": "The nightmare creatures hunting Julia, ranked by threat and explained by design.",
+          "href": "/characters/tenebris-somnia-monsters"
+        },
+        {
+          "badge": "Popular",
+          "title": "Release Date",
+          "description": "Launch timing, price, discounts, and Steam Deck status in one reference.",
+          "href": "/release/tenebris-somnia-release"
+        },
+        {
+          "badge": "New",
+          "title": "Characters & Cast",
+          "description": "Every credited performer, from Julia to the disfigured woman.",
+          "href": "/characters/tenebris-somnia-characters"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Gameplay Explained",
+          "description": "Combat, puzzles, and the retro horror mechanics behind the loop.",
+          "href": "/mechanics/tenebris-somnia-gameplay"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Trailers & Behind the Scenes",
+          "description": "Official trailers and the live-action shoot behind the cutscenes.",
+          "href": "/community/tenebris-somnia-trailer"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Tenebris Somnia?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Tenebris Somnia is a retro 2D survival horror adventure from Argentine studio Saibot Studios, co-created by Andrés Borghi and Tobías Rusjan and published by New Blood Interactive. You play as Julia, a woman whose nightmares follow her into the waking world: after visiting her missing ex-boyfriend, she slips into a parallel universe where monsters hunt her through pixel-art rooms, item-combination puzzles, and limited-resource combat.",
+        "What sets Tenebris Somnia apart is its presentation split. At key story beats the pixel art cuts away to live-action sequences shot by an award-winning Argentine film crew using real actors, real sets, and practical effects. The game launches on October 16, 2026 for Windows PC on Steam, is Steam Deck Verified, and already has a free playable demo that covers the opening house and its red door puzzle."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Saibot Studios"
+        },
+        {
+          "label": "Publisher",
+          "value": "New Blood Interactive"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "Release",
+          "value": "October 16, 2026"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Price",
+          "value": "$24.99"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Engine",
+          "value": "Unreal Engine"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Demo",
+          "value": "Free on Steam"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Tenebris Somnia Wiki",
+      "description": "Work through Tenebris Somnia with a story guide, beginner walkthrough, puzzle solutions, monster breakdowns, gameplay mechanics, release details, system requirements, and trailers.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Tenebris Somnia Story Guide",
+          "description": "Follow the dark narrative of Tenebris Somnia: Julia's nightmares, her missing ex-boyfriend, the parallel universe of monsters, and the live-action story beats that tie the horror together.",
+          "href": "/story/tenebris-somnia-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "Julia",
+              "detail": "Protagonist whose recurring nightmares bleed into the waking world"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Ivan",
+              "detail": "Julia's missing ex-boyfriend and the reason she steps into the parallel universe"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Meaning",
+              "detail": "How the Latin title and nightmare logic frame the whole story"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Tenebris Somnia Beginner Guide",
+          "description": "New player guidance for Tenebris Somnia: controls, inventory habits, puzzle-solving approach, and the survival rules that make the opening hours far less frustrating.",
+          "href": "/guide/tenebris-somnia-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Explore every room before forcing progress; backtracking is cheap and clues are everywhere"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Read every note and document; in Tenebris Somnia clues double as puzzle solutions"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Combine inventory items instead of hoarding them; the tabbed book inventory hides key reactions"
+            },
+            {
+              "label": "4",
+              "detail": "Treat each monster encounter as a cost decision, not a reflex test, and save your supplies"
+            },
+            {
+              "label": "5",
+              "detail": "Watch the live-action cutscenes closely; the game tells you the secrets are hidden there"
+            },
+            {
+              "label": "6",
+              "detail": "Solve the red door puzzle early so the demo stops stalling and the tone can take over"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Tenebris Somnia Puzzle Solutions",
+          "description": "Solutions for the puzzles that block Tenebris Somnia progression, from the red door riddle to the floor symbol panel, with the item chains each one depends on.",
+          "href": "/guide/tenebris-somnia-floor-puzzle",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Red Door",
+              "detail": "Needs a chemical, sunlight, and iron; the blood on the bathroom mirror supplies the iron"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Window",
+              "detail": "Pry the lowest board off the bedroom window with the wrench to let the light in"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "TV Code",
+              "detail": "Find the remote, load two batteries, then read the television's flashing symbols"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Floor",
+              "detail": "Enter the television's symbol sequence on the floor panel to open the way forward"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Tenebris Somnia Monsters Guide",
+          "description": "A threat ranking of the nightmare creatures hunting Julia, plus the design lore behind Tenebris Somnia monsters and tips for surviving each encounter.",
+          "href": "/characters/tenebris-somnia-monsters",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "The disfigured woman, the creature most tied to the game's practical-effects body horror"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Pursuing monsters that track Julia through the parallel universe and rarely stop"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Ambush creatures waiting in narrow corridors and unlit rooms"
+            },
+            {
+              "label": "C",
+              "detail": "Lesser nightmare spawns that drain resources if you linger instead of moving on"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Tenebris Somnia Gameplay Features",
+          "description": "How the Tenebris Somnia gameplay loop works: 2D pixel-art exploration, puzzle-gated progression, limited-resource combat, and the live-action cutscenes that break the pace.",
+          "href": "/mechanics/tenebris-somnia-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Puzzles",
+              "detail": "Progression is puzzle-gated, not combat-gated; logic opens more doors than weapons"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Combat",
+              "detail": "Limited-resource fights where avoiding a creature is often the smarter play"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Cutscenes",
+              "detail": "Real actors and practical effects replace CGI at key story beats"
+            },
+            {
+              "label": "Retro",
+              "detail": "8- and 16-bit pixel art in the tradition of Silent Hill and Resident Evil"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Tenebris Somnia Release Information",
+          "description": "Official Tenebris Somnia release details: launch date, price, platforms, editions, and announcements, gathered in one place for launch week.",
+          "href": "/release/tenebris-somnia-release",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Launch",
+              "detail": "Tenebris Somnia releases October 16, 2026 on Steam for Windows PC"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Price",
+              "detail": "Base price is $24.99, discounted 20 percent to $19.99 at launch"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Demo",
+              "detail": "A free playable demo is available now on the Steam store page"
+            },
+            {
+              "label": "Deck",
+              "detail": "Steam Deck Verified, so it runs out of the box on Valve's handheld"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tenebris Somnia System Requirements",
+          "description": "Minimum and recommended PC specs for Tenebris Somnia, plus supported features and Steam Deck compatibility, so you can check your hardware before launch.",
+          "href": "/platforms/tenebris-somnia-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Minimum Windows 10 64-bit or later; recommended Windows 11 64-bit"
+            },
+            {
+              "label": "CPU",
+              "detail": "Minimum 2.4 GHz dual core; recommended 3.6 GHz quad core or higher"
+            },
+            {
+              "label": "RAM",
+              "detail": "Minimum 8 GB; recommended 16 GB"
+            },
+            {
+              "label": "GPU",
+              "detail": "Minimum 4 GB VRAM; recommended 8 GB VRAM or greater"
+            },
+            {
+              "label": "Disk",
+              "detail": "13 GB available space, driven by the live-action video content"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tenebris Somnia Trailers",
+          "description": "Official Tenebris Somnia trailers, demo footage, and behind-the-scenes videos, so you can judge the atmosphere, pixel art, and live-action horror before you play.",
+          "href": "/community/tenebris-somnia-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Trailer",
+              "detail": "Official reveal trailer and a breakdown of the atmosphere it establishes"
+            },
+            {
+              "label": "Behind",
+              "detail": "Behind-the-scenes look at the live-action shoot and its practical effects"
+            },
+            {
+              "label": "Demo",
+              "detail": "Gameplay footage pulled from the free Steam demo"
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "title": "Tenebris Somnia FAQ",
+      "description": "Quick answers to the most common questions about Tenebris Somnia, from the red door puzzle to the release date.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Tenebris Somnia?",
+          "answer": "Tenebris Somnia is a retro 2D survival horror adventure from Argentine studio Saibot Studios, co-created by Andrés Borghi and Tobías Rusjan and published by New Blood Interactive. You play as Julia, who searches for her missing ex-boyfriend and falls into a parallel universe where monsters hunt her."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does Tenebris Somnia release?",
+          "answer": "Tenebris Somnia launches on October 16, 2026 on Steam for Windows PC at $24.99, with a 20 percent launch discount to $19.99. It is Steam Deck Verified and a free demo is already available."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do I solve the red door puzzle in Tenebris Somnia?",
+          "answer": "The red door needs a chemical, a source of light, and iron. Fill the glass with the chemical, pry the lowest board off the bedroom window with the wrench to let sunlight in, then use the chemical on the bloodstain on the bathroom mirror, because the blood is your iron, and apply the mixture to the door."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Is there a Tenebris Somnia demo?",
+          "answer": "Yes. A free demo is available on the Tenebris Somnia Steam store page and covers the opening house, the red door puzzle, and the floor symbol riddle. It is a compact slice that teaches the inventory and item-combination systems."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Tenebris Somnia have multiplayer or co-op?",
+          "answer": "No. Tenebris Somnia is a single-player survival horror game built around isolation, and no co-op or multiplayer modes have been announced."
+        },
+        {
+          "question": "Which platforms can I play Tenebris Somnia on?",
+          "answer": "Tenebris Somnia is a PC-first release available on Steam for Windows, and it is Steam Deck Verified, so it runs out of the box on Valve's handheld."
         }
       ]
     },
