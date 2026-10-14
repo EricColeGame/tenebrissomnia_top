@@ -8,6 +8,13 @@
   },
   "nav": {
     "home": "Home",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "story": "Story",
+    "characters": "Characters",
+    "release": "Release",
+    "platforms": "Platforms",
+    "community": "Community",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -413,12 +420,37 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Tenebris Somnia Walkthrough & Beginner Guides",
+    "overviewDescription": "Step-by-step Tenebris Somnia walkthroughs, puzzle solutions, and beginner tips covering the red door riddle, the floor symbol panel, and the free demo."
+  },
+  "mechanics": {
+    "overviewTitle": "Tenebris Somnia Gameplay & Mechanics",
+    "overviewDescription": "How Tenebris Somnia plays: point-and-click exploration, inventory puzzles, combat, live-action cutscenes, and how long the demo and full game run."
+  },
+  "story": {
+    "overviewTitle": "Tenebris Somnia Story & Endings",
+    "overviewDescription": "Julia's nightmare, the parallel universe, what the Tenebris Somnia title means, and what the ending leaves open for players."
+  },
+  "characters": {
+    "overviewTitle": "Tenebris Somnia Characters & Cast",
+    "overviewDescription": "Meet Julia, Ivan, and the nightmare monsters of Tenebris Somnia, plus the live-action cast and credited performers behind them."
+  },
+  "release": {
+    "overviewTitle": "Tenebris Somnia Release Date & Price",
+    "overviewDescription": "Tenebris Somnia release date, price, pre-order details, demo availability, and physical edition news gathered in one place."
+  },
+  "platforms": {
+    "overviewTitle": "Tenebris Somnia Platforms & System Requirements",
+    "overviewDescription": "Where to play Tenebris Somnia: Steam, Steam Deck Verified status, and the outlook for Nintendo Switch, PS5, and Xbox releases."
+  },
+  "community": {
+    "overviewTitle": "Tenebris Somnia Community & Media",
+    "overviewDescription": "Tenebris Somnia trailers, developer interviews, behind-the-scenes footage, and the Reddit community discussion around the game."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -429,7 +461,8 @@
     "officialMedia": "Official media",
     "home": "Home",
     "noGuidesAvailable": "No guides available yet. Check back soon!",
-    "playOnSteam": "Play on Steam"
+    "playOnSteam": "Play on Steam",
+    "quickLinks": "Quick Links"
   },
   "footer": {
     "aboutTitle": "Tenebris Somnia Wiki",
@@ -443,10 +476,11 @@
     "steamCommunity": "Steam Community",
     "officialYoutube": "Official YouTube",
     "beginnerGuide": "Beginner Guide",
-    "bossGuides": "Boss Guides",
-    "mapGuides": "Maps & Locations",
-    "skillGuides": "Skills",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "charactersGuide": "Characters & Monsters",
+    "mechanicsGuide": "Gameplay & Mechanics",
+    "storyGuide": "Story & Endings",
+    "releaseGuide": "Release Date"
   }
 }
