@@ -1,1 +1,486 @@
-{}
+{
+  "site": {
+    "name": "Tenebris Somnia Wiki",
+    "shortName": "Tenebris Somnia",
+    "tagline": "Guías, finales, secretos y guías de terror y supervivencia",
+    "description": "Explora la Wiki de Tenebris Somnia con guías paso a paso, finales, secretos, guías de juego y consejos de aventura de terror para ayudar a los jugadores a completar el juego.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "guide": "Guía",
+    "mechanics": "Mecánicas",
+    "story": "Historia",
+    "characters": "Personajes",
+    "release": "Lanzamiento",
+    "platforms": "Plataformas",
+    "community": "Comunidad",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki de Tenebris Somnia - Guía, finales y secretos",
+      "description": "Explora la Wiki de Tenebris Somnia con guías paso a paso, finales, secretos, guías de juego y consejos de aventura de terror para ayudar a los jugadores a completar el juego."
+    },
+    "hero": {
+      "eyebrow": "Aventura de terror y supervivencia retro",
+      "title": "Tenebris Somnia Wiki",
+      "description": "Tenebris Somnia es un juego de aventura de terror y supervivencia de inspiración retro que combina gráficos de píxeles, exploración, puzles y elementos de terror psicológico.",
+      "stats": [
+        "10K+ visitas totales",
+        "Múltiples secretos disponibles",
+        "0 códigos activos",
+        "Actualizaciones ocasionales"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Soluciones de puzles",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Tenebris Somnia",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "¿Nuevo en Tenebris Somnia? Aprende cómo funciona el bucle de terror y supervivencia point-and-click, por qué el juego nunca resalta los puntos interactivos y los hábitos de exploración que mantienen tu primera partida en marcha."
+        },
+        {
+          "number": "2",
+          "title": "Soluciones de puzles",
+          "description": "Tenebris Somnia bloquea el progreso con puzles, no con combate. Domina el enigma de la puerta roja, el panel de símbolos del suelo y la lógica de combinación de objetos que hay detrás de cada bloqueo inicial."
+        },
+        {
+          "number": "3",
+          "title": "Monstruos y combate",
+          "description": "Cada criatura que persigue a Julia por el universo paralelo es una decisión de coste-beneficio. Aprende cuándo luchar, cuándo huir y cómo sobrevivir a los encuentros de pesadilla con recursos limitados."
+        },
+        {
+          "number": "4",
+          "title": "Personajes y reparto",
+          "description": "Conoce a Julia, su exnovio desaparecido Ivan y los intérpretes detrás de las escenas de acción real que definen la historia de Tenebris Somnia."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Soluciones de puzles",
+        "Historia y finales",
+        "Fecha de lanzamiento"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tu primer pasillo oscuro hasta dominar el bucle de terror y supervivencia point-and-click.",
+          "href": "/guide/tenebris-somnia-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de la demo",
+          "description": "Un recorrido completo por la demo gratuita, desde la casa inicial hasta la puerta roja y más allá.",
+          "href": "/guide/tenebris-somnia-demo-walkthrough"
+        },
+        {
+          "badge": "Popular",
+          "title": "Soluciones de puzles",
+          "description": "El enigma de la puerta roja y el panel de símbolos del suelo, explicados paso a paso.",
+          "href": "/guide/tenebris-somnia-floor-puzzle"
+        },
+        {
+          "badge": "Popular",
+          "title": "Historia y finales",
+          "description": "La pesadilla de Julia, el universo paralelo y lo que revelan las escenas de acción real.",
+          "href": "/story/tenebris-somnia-story"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de monstruos",
+          "description": "Las criaturas de pesadilla que cazan a Julia, clasificadas por amenaza y explicadas por su diseño.",
+          "href": "/characters/tenebris-somnia-monsters"
+        },
+        {
+          "badge": "Popular",
+          "title": "Fecha de lanzamiento",
+          "description": "Fecha de lanzamiento, precio, descuentos y estado en Steam Deck en una sola referencia.",
+          "href": "/release/tenebris-somnia-release"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Personajes y reparto",
+          "description": "Todos los intérpretes acreditados, desde Julia hasta la mujer desfigurada.",
+          "href": "/characters/tenebris-somnia-characters"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Jugabilidad explicada",
+          "description": "Combate, puzles y las mecánicas de terror retro detrás del bucle.",
+          "href": "/mechanics/tenebris-somnia-gameplay"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tráilers y detrás de las cámaras",
+          "description": "Tráilers oficiales y el rodaje en acción real detrás de las escenas.",
+          "href": "/community/tenebris-somnia-trailer"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Tenebris Somnia?",
+      "paragraphs": [
+        "Tenebris Somnia es una aventura de terror y supervivencia 2D retro del estudio argentino Saibot Studios, cocreada por Andrés Borghi y Tobías Rusjan y publicada por New Blood Interactive. Controlas a Julia, una mujer cuyas pesadillas la siguen al mundo real: tras visitar a su exnovio desaparecido, cae en un universo paralelo donde los monstruos la cazan por salas de píxeles, puzles de combinación de objetos y combates con recursos limitados.",
+        "Lo que distingue a Tenebris Somnia es su presentación dividida. En momentos clave de la historia, el pixel art da paso a secuencias de acción real rodadas por un galardonado equipo de cine argentino con actores reales, decorados reales y efectos prácticos. El juego se lanza el 16 de octubre de 2026 para Windows PC en Steam, está verificado para Steam Deck y ya cuenta con una demo gratuita que cubre la casa inicial y su puzle de la puerta roja."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Saibot Studios"
+        },
+        {
+          "label": "Distribuidora",
+          "value": "New Blood Interactive"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Lanzamiento",
+          "value": "16 de octubre de 2026"
+        },
+        {
+          "label": "Precio",
+          "value": "$24.99"
+        },
+        {
+          "label": "Motor",
+          "value": "Unreal Engine"
+        },
+        {
+          "label": "Demo",
+          "value": "Gratis en Steam"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora la Wiki de Tenebris Somnia",
+      "description": "Avanza por Tenebris Somnia con una guía de historia, una guía para principiantes, soluciones de puzles, análisis de monstruos, mecánicas de juego, detalles de lanzamiento, requisitos del sistema y tráilers.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía de historia de Tenebris Somnia",
+          "description": "Sigue la narrativa oscura de Tenebris Somnia: las pesadillas de Julia, su exnovio desaparecido, el universo paralelo de monstruos y los momentos de acción real que unen el terror.",
+          "href": "/story/tenebris-somnia-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Julia",
+              "detail": "Protagonista cuyas pesadillas recurrentes se filtran al mundo real"
+            },
+            {
+              "label": "Ivan",
+              "detail": "El exnovio desaparecido de Julia y la razón por la que entra en el universo paralelo"
+            },
+            {
+              "label": "Significado",
+              "detail": "Cómo el título en latín y la lógica onírica enmarcan toda la historia"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para principiantes de Tenebris Somnia",
+          "description": "Orientación para nuevos jugadores de Tenebris Somnia: controles, hábitos de inventario, enfoque para resolver puzles y las reglas de supervivencia que hacen que las primeras horas sean mucho menos frustrantes.",
+          "href": "/guide/tenebris-somnia-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Explora cada sala antes de forzar el progreso; retroceder es barato y las pistas están por todas partes"
+            },
+            {
+              "label": "2",
+              "detail": "Lee cada nota y documento; en Tenebris Somnia las pistas son también soluciones de puzles"
+            },
+            {
+              "label": "3",
+              "detail": "Combina objetos del inventario en lugar de acumularlos; el inventario de libro con pestañas esconde reacciones clave"
+            },
+            {
+              "label": "4",
+              "detail": "Trata cada encuentro con un monstruo como una decisión de coste, no como una prueba de reflejos, y ahorra suministros"
+            },
+            {
+              "label": "5",
+              "detail": "Observa con atención las escenas de acción real; el juego te dice que los secretos están escondidos ahí"
+            },
+            {
+              "label": "6",
+              "detail": "Resuelve pronto el puzle de la puerta roja para que la demo deje de estancarse y el tono tome el control"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Soluciones de puzles de Tenebris Somnia",
+          "description": "Soluciones para los puzles que bloquean el progreso en Tenebris Somnia, desde el enigma de la puerta roja hasta el panel de símbolos del suelo, con las cadenas de objetos de las que depende cada uno.",
+          "href": "/guide/tenebris-somnia-floor-puzzle",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Puerta roja",
+              "detail": "Necesita un químico, luz solar y hierro; la sangre del espejo del baño aporta el hierro"
+            },
+            {
+              "label": "Ventana",
+              "detail": "Levanta la tabla más baja de la ventana del dormitorio con la llave inglesa para dejar entrar la luz"
+            },
+            {
+              "label": "Código de TV",
+              "detail": "Encuentra el mando, coloca dos pilas y luego lee los símbolos intermitentes del televisor"
+            },
+            {
+              "label": "Suelo",
+              "detail": "Introduce la secuencia de símbolos del televisor en el panel del suelo para abrir el camino"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de monstruos de Tenebris Somnia",
+          "description": "Una clasificación por amenaza de las criaturas de pesadilla que cazan a Julia, además del trasfondo de diseño de los monstruos de Tenebris Somnia y consejos para sobrevivir a cada encuentro.",
+          "href": "/characters/tenebris-somnia-monsters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "La mujer desfigurada, la criatura más ligada al body horror de efectos prácticos del juego"
+            },
+            {
+              "label": "A",
+              "detail": "Monstruos perseguidores que rastrean a Julia por el universo paralelo y rara vez se detienen"
+            },
+            {
+              "label": "B",
+              "detail": "Criaturas de emboscada que esperan en pasillos estrechos y salas sin luz"
+            },
+            {
+              "label": "C",
+              "detail": "Engendros de pesadilla menores que drenan recursos si te quedas en lugar de avanzar"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Características de jugabilidad de Tenebris Somnia",
+          "description": "Cómo funciona el bucle de juego de Tenebris Somnia: exploración 2D en pixel art, progreso bloqueado por puzles, combate con recursos limitados y las escenas de acción real que rompen el ritmo.",
+          "href": "/mechanics/tenebris-somnia-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Puzles",
+              "detail": "El progreso está bloqueado por puzles, no por combate; la lógica abre más puertas que las armas"
+            },
+            {
+              "label": "Combate",
+              "detail": "Peleas con recursos limitados en las que evitar a una criatura suele ser la jugada más inteligente"
+            },
+            {
+              "label": "Escenas",
+              "detail": "Actores reales y efectos prácticos sustituyen al CGI en momentos clave de la historia"
+            },
+            {
+              "label": "Retro",
+              "detail": "Pixel art de 8 y 16 bits en la tradición de Silent Hill y Resident Evil"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Información de lanzamiento de Tenebris Somnia",
+          "description": "Detalles oficiales del lanzamiento de Tenebris Somnia: fecha, precio, plataformas, ediciones y anuncios, reunidos en un solo lugar para la semana de lanzamiento.",
+          "href": "/release/tenebris-somnia-release",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Lanzamiento",
+              "detail": "Tenebris Somnia se lanza el 16 de octubre de 2026 en Steam para Windows PC"
+            },
+            {
+              "label": "Precio",
+              "detail": "El precio base es de $24.99, con un 20 por ciento de descuento a $19.99 en el lanzamiento"
+            },
+            {
+              "label": "Demo",
+              "detail": "Ya hay una demo gratuita disponible en la página de Steam"
+            },
+            {
+              "label": "Deck",
+              "detail": "Verificado para Steam Deck, así que funciona sin ajustes en la portátil de Valve"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Requisitos del sistema de Tenebris Somnia",
+          "description": "Especificaciones mínimas y recomendadas para PC de Tenebris Somnia, además de funciones compatibles y compatibilidad con Steam Deck, para que puedas comprobar tu hardware antes del lanzamiento.",
+          "href": "/platforms/tenebris-somnia-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "SO",
+              "detail": "Mínimo Windows 10 de 64 bits o posterior; recomendado Windows 11 de 64 bits"
+            },
+            {
+              "label": "CPU",
+              "detail": "Mínimo dual core a 2,4 GHz; recomendado quad core a 3,6 GHz o superior"
+            },
+            {
+              "label": "RAM",
+              "detail": "Mínimo 8 GB; recomendado 16 GB"
+            },
+            {
+              "label": "GPU",
+              "detail": "Mínimo 4 GB de VRAM; recomendado 8 GB de VRAM o más"
+            },
+            {
+              "label": "Disco",
+              "detail": "13 GB de espacio disponible, debido al contenido de vídeo en acción real"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tráilers de Tenebris Somnia",
+          "description": "Tráilers oficiales de Tenebris Somnia, imágenes de la demo y vídeos detrás de las cámaras, para que puedas juzgar la atmósfera, el pixel art y el terror de acción real antes de jugar.",
+          "href": "/community/tenebris-somnia-trailer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Tráiler",
+              "detail": "Tráiler oficial de presentación y un análisis de la atmósfera que establece"
+            },
+            {
+              "label": "Detrás",
+              "detail": "Mirada detrás de las cámaras al rodaje en acción real y sus efectos prácticos"
+            },
+            {
+              "label": "Demo",
+              "detail": "Imágenes de juego extraídas de la demo gratuita de Steam"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Tenebris Somnia",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Tenebris Somnia, desde el puzle de la puerta roja hasta la fecha de lanzamiento.",
+      "items": [
+        {
+          "question": "¿Qué es Tenebris Somnia?",
+          "answer": "Tenebris Somnia es una aventura de terror y supervivencia 2D retro del estudio argentino Saibot Studios, cocreada por Andrés Borghi y Tobías Rusjan y publicada por New Blood Interactive. Controlas a Julia, que busca a su exnovio desaparecido y cae en un universo paralelo donde los monstruos la cazan."
+        },
+        {
+          "question": "¿Cuándo se lanza Tenebris Somnia?",
+          "answer": "Tenebris Somnia se lanza el 16 de octubre de 2026 en Steam para Windows PC a $24.99, con un descuento de lanzamiento del 20 por ciento a $19.99. Está verificado para Steam Deck y ya hay una demo gratuita disponible."
+        },
+        {
+          "question": "¿Cómo resuelvo el puzle de la puerta roja en Tenebris Somnia?",
+          "answer": "La puerta roja necesita un químico, una fuente de luz y hierro. Llena el vaso con el químico, levanta la tabla más baja de la ventana del dormitorio con la llave inglesa para dejar entrar la luz del sol y luego usa el químico sobre la mancha de sangre del espejo del baño, porque la sangre es tu hierro, y aplica la mezcla a la puerta."
+        },
+        {
+          "question": "¿Hay una demo de Tenebris Somnia?",
+          "answer": "Sí. Hay una demo gratuita en la página de Steam de Tenebris Somnia que cubre la casa inicial, el puzle de la puerta roja y el enigma de los símbolos del suelo. Es una porción compacta que enseña los sistemas de inventario y combinación de objetos."
+        },
+        {
+          "question": "¿Tenebris Somnia tiene multijugador o cooperativo?",
+          "answer": "No. Tenebris Somnia es un juego de terror y supervivencia para un jugador construido en torno al aislamiento, y no se han anunciado modos cooperativos ni multijugador."
+        },
+        {
+          "question": "¿En qué plataformas puedo jugar a Tenebris Somnia?",
+          "answer": "Tenebris Somnia es un lanzamiento centrado en PC disponible en Steam para Windows, y está verificado para Steam Deck, así que funciona sin ajustes en la portátil de Valve."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Tenebris Somnia?",
+      "description": "Desde tu primer pasillo oscuro hasta los finales ocultos del juego, nuestra wiki comunitaria te lo cubre con guías gratuitas y actualizadas.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Tenebris Somnia y para principiantes",
+    "overviewDescription": "Guías paso a paso de Tenebris Somnia, soluciones de puzles y consejos para principiantes que cubren el enigma de la puerta roja, el panel de símbolos del suelo y la demo gratuita."
+  },
+  "mechanics": {
+    "overviewTitle": "Jugabilidad y mecánicas de Tenebris Somnia",
+    "overviewDescription": "Cómo se juega a Tenebris Somnia: exploración point-and-click, puzles de inventario, combate, escenas de acción real y cuánto duran la demo y el juego completo."
+  },
+  "story": {
+    "overviewTitle": "Historia y finales de Tenebris Somnia",
+    "overviewDescription": "La pesadilla de Julia, el universo paralelo, qué significa el título Tenebris Somnia y qué deja abierto el final para los jugadores."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y reparto de Tenebris Somnia",
+    "overviewDescription": "Conoce a Julia, Ivan y los monstruos de pesadilla de Tenebris Somnia, además del reparto de acción real y los intérpretes acreditados detrás de ellos."
+  },
+  "release": {
+    "overviewTitle": "Fecha de lanzamiento y precio de Tenebris Somnia",
+    "overviewDescription": "Fecha de lanzamiento, precio, detalles de reserva, disponibilidad de la demo y noticias de edición física de Tenebris Somnia, reunidos en un solo lugar."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas y requisitos del sistema de Tenebris Somnia",
+    "overviewDescription": "Dónde jugar a Tenebris Somnia: Steam, el estado Verificado para Steam Deck y las perspectivas de lanzamiento en Nintendo Switch, PS5 y Xbox."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y medios de Tenebris Somnia",
+    "overviewDescription": "Tráilers de Tenebris Somnia, entrevistas con los desarrolladores, imágenes detrás de las cámaras y la conversación de la comunidad de Reddit en torno al juego."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "updated": "Actualizado",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "playOnSteam": "Jugar en Steam",
+    "quickLinks": "Enlaces rápidos"
+  },
+  "footer": {
+    "aboutTitle": "Tenebris Somnia Wiki",
+    "about": "Tenebris Somnia Wiki es un centro de guías independiente creado por fans que cubre guías paso a paso, finales, secretos, puzles, monstruos y consejos de terror y supervivencia tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Tenebris Somnia Wiki. Sin afiliación con Andrés Borghi, Saibot Studios ni New Blood Interactive.",
+    "description": "Aventura de terror y supervivencia retro en píxeles. Explora una mansión oscura, resuelve puzles y sobrevive al terror psicológico inspirado en los juegos clásicos de la era PS1.",
+    "playGame": "Juega a Tenebris Somnia en Steam",
+    "steamCommunity": "Comunidad de Steam",
+    "officialYoutube": "YouTube oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio",
+    "charactersGuide": "Personajes y monstruos",
+    "mechanicsGuide": "Jugabilidad y mecánicas",
+    "storyGuide": "Historia y finales",
+    "releaseGuide": "Fecha de lanzamiento"
+  }
+}
