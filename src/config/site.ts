@@ -19,18 +19,17 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Tenebris Somnia Wiki",
+  shortName: "Tenebris Somnia",
+  logoText: "TS",
+  tagline: "Walkthroughs, Endings, Secrets & Survival Horror Guides",
+  description: "Explore Tenebris Somnia Wiki with walkthroughs, endings, secrets, gameplay guides, and horror adventure tips to help players complete the game.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://tenebrissomnia.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://tenebrissomnia.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://store.steampowered.com/app/2121510/Tenebris_Somnia/",
+  heroVideoId: "A_fQ_gNddbo", // Tenebris Somnia - Release Date Trailer (New Blood Interactive)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@NewBloodInteractive",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
